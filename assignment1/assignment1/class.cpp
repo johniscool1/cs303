@@ -127,8 +127,7 @@ void Numbers::deleteNum(int x) {
 
     for (int i = 0; i < temp.size(); i++) {
         arrayC[i] = temp[i];
-        //cout << i << endl;
-        cout << "  " << i;
+       
     }
 
 
