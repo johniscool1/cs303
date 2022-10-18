@@ -7,4 +7,4 @@ The employess class contains all the variables and functions for the child class
 
 Screenshots:
 
-![alt text](https://github.com/johniscool1/cs303/blob/main/assignment2/question1/output.PNG)
+![alt text](https://github.com/johniscool1/cs303/blob/main/assignment2/question2/output.PNG)
